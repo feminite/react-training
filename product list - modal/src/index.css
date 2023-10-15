@@ -108,3 +108,7 @@ td {
   margin: 0 10px;
   padding: 0 10px;
 }
+
+.form-row {
+  display: flex;
+}
